@@ -37,6 +37,6 @@ final class ProtocolConstants
     public const SUPPORTED_PROTOCOLS = [
         ProtocolConstants::BEDROCK_1_19_0 => '1.19.0',
         ProtocolConstants::BEDROCK_1_19_10 => '1.19.10',
-        ProtocolConstants::BEDROCK_1_19_20 => '1.19.20,
+        ProtocolConstants::BEDROCK_1_19_20 => '1.19.20',
     ];
 }
