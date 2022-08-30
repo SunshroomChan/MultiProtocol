@@ -19,7 +19,8 @@
  * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
  * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- * SOFTWARE. *
+ * SOFTWARE.
+ *
  * @auto-license
  */
 
@@ -30,8 +31,10 @@ namespace cooldogedev\MultiProtocol\network\constant;
 final class ProtocolConstants
 {
     public const BEDROCK_1_19_0 = 527;
+    public const BEDROCK_1_19_10 = 534
 
     public const SUPPORTED_PROTOCOLS = [
         ProtocolConstants::BEDROCK_1_19_0 => '1.19.0',
+        ProtocolConstants::BEDROCK_1_19_10 => '1.19.10',
     ];
 }
