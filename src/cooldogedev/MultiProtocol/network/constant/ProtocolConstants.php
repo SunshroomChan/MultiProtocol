@@ -32,7 +32,7 @@ final class ProtocolConstants
 {
     public const BEDROCK_1_19_0 = 527;
     public const BEDROCK_1_19_10 = 534;
-    public const BEDROCK_1_19_20 = 544
+    public const BEDROCK_1_19_20 = 544;
 
     public const SUPPORTED_PROTOCOLS = [
         ProtocolConstants::BEDROCK_1_19_0 => '1.19.0',
